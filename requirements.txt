@@ -1,1 +1,11 @@
+ipykernel
+
 selenium
+google-search-results
+
+huggingface_hub
+
+langchain
+openai
+
+python-dotenv
